@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @VuvEnDod
 - 👀 I’m interested in something?
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ahh-
-- 📫 How to reach me wha-
+- 🌱 I’m currently learning everything
+- 📫 How to reach me?
 - 😄 Pronouns: male :3
-- ⚡ Fun fact: im femboy
+- ⚡ Fun fact: 
 
 <!---
 VuvEnDod/VuvEnDod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
